@@ -34,8 +34,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=g-ung&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
+
 <details>
  <summary><h3>👨‍💻 Gabriel's Career Journey</h3></summary>
-  
--->
+  Work in progress...
