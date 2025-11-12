@@ -38,7 +38,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 <details>
  <summary><h3>👨‍💻 Gabriel's Career Journey</h3></summary>
   Work in progress...
-
+</details>
 ###
 
 <picture>
