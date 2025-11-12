@@ -38,3 +38,13 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 <details>
  <summary><h3>👨‍💻 Gabriel's Career Journey</h3></summary>
   Work in progress...
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-ung/g-ung/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-ung/g-ung/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/g-ung/g-ung/output/pacman-contribution-graph.svg">
+</picture>
+
+###
