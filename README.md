@@ -32,6 +32,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 ![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=g-ung&theme=gruvbox&border_radius=4.5) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-ung&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 
 #
 
