@@ -12,7 +12,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 
 ---
 
-<h1 align="center"> 🧰 Languages and Tools</h1>
+<h3 align="left"> 🧰 Languages and Tools</h3>
 
 <div align="center">
    <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
