@@ -7,10 +7,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <p align="left">
       <a href="https://www.linkedin.com/in/gabrielung/">
          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/gabrielung"/></a>
-      <a href="https://github.com/g-ung?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/g-ungcolor=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/g-ung?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/g-ung?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img src="https://img.shields.io/github/followers/g-ung?style=social" alt="Followers"/>
    </p>
 
 ---
@@ -23,16 +20,23 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+</br>
 
 #
 
 ### 📊 Stats
 
-![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=gruvbox)
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-ung&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-ung&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g-ung&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g-ung&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-ung&theme=radical&utcOffset=8">
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=g-ung&theme=gruvbox&border_radius=4.5) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-ung&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <!-- Additional GitHub Readme Stats -->
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=radical" />
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&theme=radical" alt="dhruv8433" />
+</div>
 
 #
 
