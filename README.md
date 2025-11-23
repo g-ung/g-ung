@@ -37,7 +37,6 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=radical"/>
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=g-ung&theme=radical" alt="g-ung"/>
 </div>
-#
 
 <details>
  <summary><h3>👨‍💻 Gabriel's Career Journey</h3></summary>
