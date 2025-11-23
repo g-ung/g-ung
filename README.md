@@ -34,7 +34,6 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g-ung&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-ung&theme=radical&utcOffset=8">
 
-  <!-- Additional GitHub Readme Stats -->
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=g-ung&show_icons=true&theme=radical" />
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8433&theme=radical" alt="dhruv8433" />
 </div>
