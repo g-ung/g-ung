@@ -56,7 +56,27 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 
 <details>
  <summary><h3>👨‍💻 Gabriel's Career Journey</h3></summary>
-  Work in progress...
+   
+   Most of my work lives behind private repositories.
+   
+   Not because I’m inactive, but because many of the things I build are personal experiments, unfinished ideas, learning projects, internal tooling, and explorations that I’m not ready to release publicly.
+   
+   This profile represents an ongoing journey of curiosity, continuous learning, and building things that solve problems, automate workflows, or simply explore new technologies.
+   
+   My interests span identity, cloud, automation, AI, security, and developer tooling — with a strong focus on understanding how systems work beneath the surface.
+   
+   While the code itself may not always be visible, the journey behind it is very real:
+   
+   * late-night experiments,
+   * evolving ideas,
+   * lessons learned through failure,
+   * and the constant pursuit of better engineering practices.
+   
+   I use GitHub as both a workspace and a knowledge lab — a place to prototype, refine, and explore.
+   
+   Some things may eventually become public. Many won’t.
+   
+   Either way, this journey continues one commit at a time.
 </details>
 
 ###
