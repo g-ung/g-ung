@@ -4,17 +4,21 @@
 
 Coffee-fueled consultant and engineer in the Identity & Access Management space. When not securing identities, I’m chasing Strava segments or the perfect espresso shot.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/gabrielung/">
-         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"  alt="https://www.linkedin.com/in/gabrielung"/></a>
-        <img src="https://img.shields.io/github/followers/g-ung?style=social" alt="Followers"/>
-   </p>
-
+<p align="left">
+   <a href="https://www.linkedin.com/in/gabrielung/">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"  alt="https://www.linkedin.com/in/gabrielung"/></a>
+   <img src="https://img.shields.io/github/followers/g-ung?style=social" alt="Followers"/>
+</p>
+<p align="left">
+   <img src="https://img.shields.io/badge/Joined-2018-blue" alt="Joined GitHub"/>
+   <img src="https://img.shields.io/badge/Private%20Repos-2-blue" alt="Private Repos"/>
+   <img src="https://komarev.com/ghpvc/?username=g-ung&label=Profile%20views&color=brightgreen&style=flat" alt="g-ung"/>
+</p>
 ---
 
 <h3 align="left"> 🧰 Languages and Tools</h3>
 
-<div align="center">
+<p alsing="left">
    <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
    <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
    <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -33,7 +37,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img align="center" alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
    <img align="center" alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"/>
-</div>
+</p>
 
 <br>
 <hr>
