@@ -15,12 +15,16 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 <h3 align="left"> 🧰 Languages and Tools</h3>
 
 <div align="center">
-   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-   <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-   <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+   <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+   <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+   <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+   <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+   <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+   <img align="center" alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white"/>
+   <img align="center" alt="GitHub" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
 </div>
 
 <br>
