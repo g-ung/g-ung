@@ -6,7 +6,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/gabrielung/">
-         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue"  alt="https://www.linkedin.com/in/gabrielung"/></a>
+         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"  alt="https://www.linkedin.com/in/gabrielung"/></a>
         <img src="https://img.shields.io/github/followers/g-ung?style=social" alt="Followers"/>
    </p>
 
@@ -25,6 +25,14 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img align="center" alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
    <img align="center" alt="VS Code" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white"/>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+   <img align="center" alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/>
+   <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff"/>
+   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+   <img align="center" alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+   <img align="center" alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"/>
 </div>
 
 <br>
