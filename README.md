@@ -8,6 +8,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <a href="https://www.linkedin.com/in/gabrielung/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"  alt="https://www.linkedin.com/in/gabrielung"/></a>
     <img src="https://img.shields.io/github/followers/g-ung?style=social" alt="Followers"/>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/g-ung">
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/Joined-2018-blue" alt="Joined GitHub"/>
