@@ -15,6 +15,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img src="https://img.shields.io/badge/Private%20Repos-2-blue" alt="Private Repos"/>
    <img src="https://komarev.com/ghpvc/?username=g-ung&label=Profile%20views&color=brightgreen&style=flat" alt="g-ung"/>
    <img src="https://img.shields.io/github/commit-activity/w/g-ung/g-ung" alt="g-ung"/>
+   <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/g-ung/g-ung/main">
 
 </p>
 <br>
