@@ -67,7 +67,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    
    This profile represents an ongoing journey of curiosity, continuous learning, and building things that solve problems, automate workflows, or simply explore new technologies.
    
-   My interests span identity, cloud, automation, AI, security, and developer tooling — with a strong focus on understanding how systems work beneath the surface.
+   My interests span identity, cloud, automation, AI, security, and developer tooling - with a strong focus on understanding how systems work beneath the surface.
    
    While the code itself may not always be visible, the journey behind it is very real:
    
@@ -76,7 +76,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    * lessons learned through failure,
    * and the constant pursuit of better engineering practices.
    
-   I use GitHub as both a workspace and a knowledge lab — a place to prototype, refine, and explore.
+   I use GitHub as both a workspace and a knowledge lab - a place to prototype, refine, and explore.
    
    Some things may eventually become public. Many won’t.
    
