@@ -31,7 +31,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
    <img align="center" alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-   <img align="center" alt="GitHub" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
    <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
    <img align="center" alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/>
    <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff"/>
