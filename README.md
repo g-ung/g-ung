@@ -30,7 +30,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
    <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
    <img align="center" alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white"/>
+   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
    <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
    <img align="center" alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/>
@@ -40,6 +40,14 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img align="center" alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
    <img align="center" alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"/>
+   <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+   <img align="center" alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
+   <img align="center" alt="Slack" src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
+   <img align="center" alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+   <img align="center" alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"/>
+   <img align="center" alt="XML" src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"/>
+   <img align="center" alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"/>
+   <img align="center" alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff"/>
 </p>
 
 <br>
