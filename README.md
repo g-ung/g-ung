@@ -8,15 +8,16 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <a href="https://www.linkedin.com/in/gabrielung/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"  alt="https://www.linkedin.com/in/gabrielung"/></a>
     <img src="https://img.shields.io/github/followers/g-ung?style=social" alt="Followers"/>
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/g-ung/g-ung">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/g-ung">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/g-ung/g-ung"/>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/g-ung"/>
+    <img src="https://www.shieldcn.dev/github/branches/g-ung/g-ung.svg?variant=ghost&size=xs"/>
 </p>
 <p align="left">
    <img src="https://img.shields.io/badge/Joined-2018-blue" alt="Joined GitHub"/>
    <img src="https://img.shields.io/badge/Private%20Repos-2-blue" alt="Private Repos"/>
    <img src="https://komarev.com/ghpvc/?username=g-ung&label=Profile%20views&color=brightgreen&style=flat" alt="g-ung"/>
    <img src="https://img.shields.io/github/commit-activity/w/g-ung/g-ung" alt="g-ung"/>
-   <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/g-ung/g-ung/main">
+   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/g-ung/g-ung/pacman.yml"/>
 <p align="left">
    <img src="https://www.shieldcn.dev/github/open-issues/g-ung/g-ung.svg?variant=secondary&size=xs"/>
    <img src="https://www.shieldcn.dev/github/closed-issues/g-ung/g-ung.svg?variant=ghost&size=xs"/>
