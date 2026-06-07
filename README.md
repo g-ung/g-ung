@@ -56,6 +56,7 @@ Coffee-fueled consultant and engineer in the Identity & Access Management space.
    <img align="center" alt="XML" src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"/>
    <img align="center" alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"/>
    <img align="center" alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff"/>
+   <img align="center" alt="Hono" src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)"/>
 </p>
 
 <br>
