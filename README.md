@@ -2,7 +2,7 @@
 
 **`Life is simple: I want to be in love, drink good coffee and ride my bike`**
 
-Coffee-fueled consultant and engineer in the Identity & Access Management space. When not securing identities, I’m chasing Strava segments or the perfect espresso shot.
+Coffee-fueled consultant and security engineer in the Identity & Access Management space. When not securing identities, I’m chasing Strava segments or the perfect espresso shot.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/gabrielung/">
